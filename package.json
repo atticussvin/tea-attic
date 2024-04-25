@@ -1,0 +1,23 @@
+{
+  "name": "@atticusvin/tea-attic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atticussvin/tea-attic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atticussvin/tea-attic/issues"
+  },
+  "homepage": "https://github.com/atticussvin/tea-attic#readme",
+  "dependencies": {
+    "tea-attic": "^1.0.0"
+  },
+  "devDependencies": {}
+}
